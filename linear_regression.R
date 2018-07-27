@@ -1,3 +1,6 @@
+#Author - Niraj Dev Pandey
+#Email - pandey@uni-hildesheim.de
+
 library(usdm) # for testing collinearity
 library(car) # for testing outliers
 library(MASS) # for testing studentized residuals
